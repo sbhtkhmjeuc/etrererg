@@ -1,0 +1,13 @@
+.newsBox {
+    border-radius: 25px;
+    background: #2b2d42;
+    padding: 20px;
+    width: 12%;
+    height: 40%;
+    color:#ffffff;
+    font-family: Roboto Mono, monospace;
+    text-align: center;
+    text-decoration:underline;
+    text-decoration-color:#ffffff;
+    text-decoration-style: solid;
+}
